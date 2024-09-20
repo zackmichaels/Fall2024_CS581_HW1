@@ -1,3 +1,3 @@
-- I used the life.c provided
-- I have also included the myscript.sh file used to run jobs
+- I used the life.c provided on Blackboard
+- I have also included the myscript.sh file used to run jobs that were edited for each test case
 - No output files were used in this project
