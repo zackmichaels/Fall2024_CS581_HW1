@@ -1,0 +1,18 @@
+ 
+============================================================
+=====     Queued job information at submit time        =====
+============================================================
+  The submitted file is: myscript.sh
+  The time limit is 12:00:00 HH:MM:SS.
+  The target directory is: /home/ualclsd0179/CS581/Fall2024_CS581_HW1
+  The memory limit is: 1gb
+  The job will start running after: 202409251358.59
+  Job Name: GCC4.1.0
+  Queue: -q class -W group_list=classq
+  Constraints: 
+  Command typed:
+/scripts/run_script myscript.sh     
+  Queue submit command:
+qsub -q class -W group_list=classq -j oe -N GCC4.1.0 -a 202409251358.59 -r n -M zemichaels@crimson.ua.edu -l walltime=12:00:00 -l select=ncpus=1:mem=1000mb 
+  Job number: 109281
+ 
